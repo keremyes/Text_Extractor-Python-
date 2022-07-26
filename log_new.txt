@@ -1,0 +1,6 @@
+Software version: 0.1.10 
+The application has started 9 times
+There are 3 warnings, and 3 errors.
+1. Crash occured at 17:18:47
+2. Crash occured at 17:18:50
+3. Crash occured at 17:18:50
